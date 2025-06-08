@@ -1,0 +1,9 @@
+prefix=/Users/nishanrai/Vs Codes/Basics/Basics_Python/venv_k
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 3.0.16
+Requires: libssl libcrypto
